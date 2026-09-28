@@ -1,7 +1,5 @@
-version: 2026.232.0520
 fastfetch:
     candy:
-        version: 2026.144.1443
         description: |
             Fast system-information report (neofetch successor) covering OS, kernel, CPU, and memory
             Installs the fastfetch package on arch and fedora, landing the
